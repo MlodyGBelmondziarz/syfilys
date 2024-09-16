@@ -1,7 +1,12 @@
 body{
-    background-color: aqua;
+    color:aliceblue;
 }
 
 h1 {
     font-size: 32px;
+}
+
+p{
+    color: green;
+    background-color: yellow;
 }
